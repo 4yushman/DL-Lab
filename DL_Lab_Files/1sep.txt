@@ -1,0 +1,3 @@
+Ek image based dataset dhundhna hain jo thoda bada ho and complex ho, 
+
+all layers ko Freeze kerke last layer which is FC and Lyer 4 unko unfreeze kerna hain unfresee till layer 4, fully connected layers pe weights train and learn
