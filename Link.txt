@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/fernandosr85/glove-6b-300d-txt
